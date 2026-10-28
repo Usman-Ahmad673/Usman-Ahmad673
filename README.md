@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [uxman-dev.netlify.app/](http://uxman-dev.netlify.app/)
-* ✉️  You can contact me at [itsusmanahmad00@gmail.com](mailto:itsusmanahmad00@gmail.com)
+* ✉️  You can contact me at [usmanahmed07.dev@gmail.com](mailto:usmanahmed07.dev@gmail.com)
 * 🤝  I'm open to collaborating on AI, Automation and Web and Mobile development
 
 ### Skills
